@@ -1,1 +1,1 @@
-<button id="myButton">Claim Prize!</button>
+//<button id="myButton">Claim Prize!</button>
